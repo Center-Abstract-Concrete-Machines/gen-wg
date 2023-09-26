@@ -1,0 +1,55 @@
+{
+  "name": "soil",
+  "som": "seed",
+  "audio": { "channels": 2 },
+  "components": {
+    "knob1": {
+      "component": "AnalogControl",
+      "pin": 28
+    },
+    "knob2": {
+      "component": "AnalogControl",
+      "pin": 25
+    },
+    "knob3": {
+      "component": "AnalogControl",
+      "pin": 24
+    },
+    "knob4": {
+      "component": "AnalogControl",
+      "pin": 24
+    },
+    "knob5": {
+      "component": "AnalogControl",
+      "pin": 23
+    },
+    "knob6": {
+      "component": "AnalogControl",
+      "pin": 22
+    },
+    "led1": {
+      "component": "Led",
+      "pin": 15
+    },
+    "led2": {
+      "component": "Led",
+      "pin": 16
+    },
+    "led3": {
+      "component": "Led",
+      "pin": 17
+    },
+    "led4": {
+      "component": "Led",
+      "pin": 18
+    },
+    "led5": {
+      "component": "Led",
+      "pin": 19
+    },
+    "led6": {
+      "component": "Led",
+      "pin": 20
+    }
+  }
+}
